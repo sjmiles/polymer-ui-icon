@@ -1,0 +1,12 @@
+{
+  "name": "polymer-ui-icon",
+  "version": "1.0.0",
+  "main": "polymer-ui-icon.html",
+  "ignore": [
+  ],
+  "dependencies": {
+    "polymer-ui-assets": "http://itch.selfip.net/~sjmiles/bowerville/components/polymer-ui-assets.zip"
+  },
+  "devDependencies": {
+  }
+}
